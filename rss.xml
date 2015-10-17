@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[My photography]]></title>
         <description><![CDATA[My photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nclcocco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 17 Oct 2015 14:19:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 17 Oct 2015 14:23:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nclcocco/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Minimal...]]></title>
             <description><![CDATA[<article><h1>Minimal...</h1><p>Shot on iPhone 6S Plus</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdcab290-fc42-45b4-92ae-7cab4c8fb321.jpg"></article>]]></description>
-            <link>undefinedminimal/index.html</link>
+            <link>https://thegrid.ai/nclcocco/minimal/index.html</link>
             <guid isPermaLink="false">599ff6ac-5ea3-4770-8a35-67344928e0f6</guid>
-            <pubDate>Sat, 17 Oct 2015 14:19:32 GMT</pubDate>
+            <pubDate>Sat, 17 Oct 2015 14:23:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
