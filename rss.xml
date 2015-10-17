@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[My photography]]></title>
+        <description><![CDATA[My photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 17 Oct 2015 14:19:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Minimal...]]></title>
+            <description><![CDATA[<article><h1>Minimal...</h1><p>Shot on iPhone 6S Plus</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdcab290-fc42-45b4-92ae-7cab4c8fb321.jpg"></article>]]></description>
+            <link>undefinedminimal/index.html</link>
+            <guid isPermaLink="false">599ff6ac-5ea3-4770-8a35-67344928e0f6</guid>
+            <pubDate>Sat, 17 Oct 2015 14:19:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
